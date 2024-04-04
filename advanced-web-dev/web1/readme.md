@@ -1,1 +1,3 @@
 ... 
+# Preview web
+![IMAGE](https://github.com/NGcodeX/NGcodeX_Activity/blob/main/advanced-web-dev/web1/preview.PNG?raw=true)
